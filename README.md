@@ -2,7 +2,7 @@
 
 A SQL portfolio project analyzing the Olist Brazilian E-Commerce dataset: a real, multi-table dataset covering ~100K orders across customers, sellers, products, payments, reviews, and delivery logistics.
 
-**Tools:** MySQL &nbsp;|&nbsp; **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Tools:** MySQL &nbsp;|&nbsp; **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) &nbsp;|&nbsp; **Dashboard:** [Interactive version on Tableau Public](https://public.tableau.com/app/profile/joseph.gray6923/viz/Olist_Dashboard_17912242784130/OlistE-Commerce)
 
 ---
 
