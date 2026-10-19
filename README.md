@@ -59,8 +59,8 @@ The raw CSVs are not included in this repo. Download them from the Kaggle link a
 
 ### 5. What payment types are most common, and do installment orders differ in value from one-time payments?
 
-- Credit card is by far the most common payment type (~74% of payments), followed by boleto (~19%), voucher (~6%), and debit card (~2%).
-- Credit card orders paid in installments average roughly **double** the value of one-time credit card payments, consistent with shoppers using installments to afford larger purchases.
+- Credit card is by far the most common payment type (73.9% of payments), followed by boleto (19.0%), voucher (5.6%), and debit card (1.5%).
+- Credit card payments split into installments average roughly **double** the value of one-time credit card payments (R$196.76 vs. R$95.87), consistent with shoppers using installments to afford larger purchases.
 
 ## Skills Demonstrated
 
